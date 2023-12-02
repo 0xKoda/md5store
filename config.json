@@ -1,0 +1,6 @@
+{
+    "urls": {
+      "http://example.com": "md5hashofexamplecom",
+      "http://anotherexample.com": "md5hashofanotherexamplecom"
+    }
+  }
